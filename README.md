@@ -155,7 +155,7 @@ The frontend is already wired to call the backend at `http://127.0.0.1:8000/proc
 
 ## Notes / Limitations
 
-- Speaker diarization is a simple heuristic, not a proper ML model.
+- Speaker diarization is a simple heuristic.
 - Engagement scores are approximate and meant for visualization, not scientific metrics.
 - Long meetings and heavier Whisper models will need more CPU/GPU.
 
