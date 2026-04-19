@@ -73,6 +73,11 @@ SmartMeetAI/
 └── .gitignore
 ```
 
+## Screenshot
+
+![SmartMeet dashboard](frontend/public/dashboard.png)
+
+
 ---
 
 ## Running the backend (FastAPI)
